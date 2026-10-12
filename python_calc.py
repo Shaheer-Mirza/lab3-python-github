@@ -36,7 +36,7 @@ def percentage(value, total):
 
 while True:
     # Display the menu repeatedly until the user exits.
-    print("\n--- Python Calculator ---")
+    print("\nHi! Welcome to the Python Calculator.")
     print("1. Addition")
     print("2. Subtraction")
     print("3. Multiplication")
